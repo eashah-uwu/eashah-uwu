@@ -9,8 +9,10 @@ I'm a passionate developer who's on a mission to turn code into creative, user-f
 - 📫 **How to Reach Me:**  
   - Drop me a line at ebajwa.bscs22seecs@seecs.edu.pk or ping me on GitHub.
 - **Check out my recent work:**
-  - https://github.com/eashah-uwu/siyahat
-    
+<a href="https://github.com/eashah-uwu/WaveGen" target="_blank">
+    <img width="50px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture1.gif" />
+</a>
+
  ---
  ### Languages and Tools
 
