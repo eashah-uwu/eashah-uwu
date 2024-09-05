@@ -9,8 +9,8 @@ I'm a passionate developer who's on a mission to turn code into creative, user-f
 - 📫 **How to Reach Me:**  
   - Drop me a line at ebajwa.bscs22seecs@seecs.edu.pk or ping me on GitHub.
 
-<details>
-  <summary>Check out my recent work</summary>
+
+#### Check out my recent work
 </br>
   <table>
     <tr>
@@ -29,7 +29,7 @@ I'm a passionate developer who's on a mission to turn code into creative, user-f
     </tr>
   </table>
 
-</details>
+
 
 
 
