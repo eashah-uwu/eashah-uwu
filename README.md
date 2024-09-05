@@ -8,10 +8,32 @@ I'm a passionate developer who's on a mission to turn code into creative, user-f
   - Microservices and Web Apps at GoSaaS Labs, where I’m making sure nothing crashes under pressure (especially not my code).
 - 📫 **How to Reach Me:**  
   - Drop me a line at ebajwa.bscs22seecs@seecs.edu.pk or ping me on GitHub.
-- **Check out my recent work:**
-<a href="https://github.com/eashah-uwu/WaveGen" >
-    <img width="150px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture1.gif" />
-</a>
+
+<details>
+  <summary>Check out my recent work</summary>
+</br>
+  <table>
+    <tr>
+      <td>
+        <h6>Siyahat:</h6>
+        <a href="https://github.com/eashah-uwu/siyahat">
+           <img width="200px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture3.jpg" alt="Siyahat" />
+        </a> 
+      </td>
+      <td>
+        <h6>Wavegen:</h6>
+        <a href="https://github.com/eashah-uwu/WaveGen">
+          <img width="150px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture1.gif" alt="WaveGen GIF" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</details>
+
+
+
+
 
  ---
  ### Languages and Tools
