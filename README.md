@@ -5,7 +5,7 @@
 I'm a passionate developer who's on a mission to turn code into creative, user-friendly solutions. With a strong foundation in Computer Science, I'm diving deep into the world of web development, machine learning, and everything in between. Currently pursuing (trying to) my bachelors at NUST
 
 - 🔭 **Currently Working on:**  
-  - Microservices and Web Apps at Bitsmith Studios, where I’m making sure nothing crashes under pressure (especially not my code).
+  - Deep Learning-Based User Interface Adaptation via Cognitive and Contextual Sensing.
 - 📫 **How to Reach Me:**  
   - Drop me a line at ebajwa.bscs22seecs@seecs.edu.pk or ping me on GitHub.
 
@@ -14,6 +14,7 @@ I'm a passionate developer who's on a mission to turn code into creative, user-f
 </br>
   <table>
     <tr>
+      
       <td>
         <h6>Siyahat:</h6>
         <a href="https://github.com/eashah-uwu/siyahat">
