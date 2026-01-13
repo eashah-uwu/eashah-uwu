@@ -11,24 +11,24 @@ I'm a passionate developer who's on a mission to turn code into creative, user-f
 
 
 #### Check out my recent work
-</br>
-  <table>
-    <tr>
-      
-      <td>
-        <h6>Siyahat:</h6>
-        <a href="https://github.com/eashah-uwu/siyahat">
-           <img width="200px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture3.jpg" alt="Siyahat" />
-        </a> 
-      </td>
-      <td>
-        <h6>Wavegen:</h6>
-        <a href="https://github.com/eashah-uwu/WaveGen">
-          <img width="150px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture1.gif" alt="WaveGen GIF" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td>
+      <h6>Siyahat:</h6>
+      <a href="https://github.com/eashah-uwu/siyahat">
+        <img width="200px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture3.jpg" alt="Siyahat" />
+      </a> 
+    </td>
+    <td>
+      <h6>Wavegen:</h6>
+      <a href="https://github.com/eashah-uwu/WaveGen">
+        <img width="150px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture1.gif" alt="WaveGen GIF" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
